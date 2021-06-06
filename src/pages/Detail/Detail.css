@@ -1,0 +1,25 @@
+.container {
+  background-color: rgba(0, 0, 0, 0.2);
+  text-align: center;
+  margin: 50px auto;
+}
+
+.detail-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.detail-item{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.last-div{
+  display: flex;
+  flex-direction: column;
+}
+.subTitle {
+  color: #6c757d;
+}

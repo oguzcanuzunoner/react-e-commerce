@@ -1,3 +1,7 @@
+## NETLIFY DEMO
+[NETLIFY DEMO - CLICK ](https://compassionate-joliot-442eb2.netlify.app/)
+
+
 # e-Commerce Uygulaması
 
 Uygulamamızda, API'den çekilen ürün bilgilerini listeliyoruz. Bu listenen ürünleri sepetinize ekleyebiliyor, sepetten silebiliyor ve aynı zamanda favori olarak ekleyebilip/silebiliyorsunuz.
